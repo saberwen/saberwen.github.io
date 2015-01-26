@@ -1,0 +1,30 @@
+
+body {
+	background-image: url(../images/loadpage.jpg);
+	background-repeat: no-repeat; 
+}
+
+h1 {
+	/* background-color: #00ff00 */
+}
+
+h2 {
+	background-color: transparent
+}
+a.class0 {
+	padding: 20px;
+	border: 1px solid black;
+	background-color: transparent; 
+	background-position: 150px 100px
+}
+
+
+p {
+	/* background-color: rgb(250,0,255) */
+}
+
+
+p.no2 {
+	background-color: yellow; padding: 40px;
+}
+
